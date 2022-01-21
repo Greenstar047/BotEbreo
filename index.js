@@ -14,3 +14,8 @@ client.on("messageCreate", (message) => {
         message.channel.send("Questo è il mio canale: GreenStar")
     }
 })
+
+
+client.on(message) => {
+    
+}
